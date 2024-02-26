@@ -1,2 +1,9 @@
 # Desenvolve-2024-Git-e-GitHub
-Trilha de Dados do programa Desenvolve 2024 do Grupo Boticário
+
+Repositório para compartilhamento de arquivos durante o curso Git e GitHub: compartilhando e colaborando em projetos, curso ministrado pela Alura.
+
+
+## Links Uteis 
+
+https://www.linkedin.com/in/kellycvlemos/
+
